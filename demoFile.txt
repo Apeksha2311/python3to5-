@@ -1,0 +1,5 @@
+name=apeksha
+age=21      
+loc=thane 
+sal:23000sal:23000sal:23000sal:23000
+sal:23000
