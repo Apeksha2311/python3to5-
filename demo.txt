@@ -1,3 +1,0 @@
-name : apeksha
-surname : Khot
-age:23
